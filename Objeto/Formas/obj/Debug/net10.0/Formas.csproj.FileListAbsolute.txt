@@ -1,0 +1,14 @@
+C:\Users\ALUNO\source\repos\Formas\Formas\bin\Debug\net10.0\Formas.exe
+C:\Users\ALUNO\source\repos\Formas\Formas\bin\Debug\net10.0\Formas.deps.json
+C:\Users\ALUNO\source\repos\Formas\Formas\bin\Debug\net10.0\Formas.runtimeconfig.json
+C:\Users\ALUNO\source\repos\Formas\Formas\bin\Debug\net10.0\Formas.dll
+C:\Users\ALUNO\source\repos\Formas\Formas\bin\Debug\net10.0\Formas.pdb
+C:\Users\ALUNO\source\repos\Formas\Formas\obj\Debug\net10.0\Formas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\source\repos\Formas\Formas\obj\Debug\net10.0\Formas.AssemblyInfoInputs.cache
+C:\Users\ALUNO\source\repos\Formas\Formas\obj\Debug\net10.0\Formas.AssemblyInfo.cs
+C:\Users\ALUNO\source\repos\Formas\Formas\obj\Debug\net10.0\Formas.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\Formas\Formas\obj\Debug\net10.0\Formas.dll
+C:\Users\ALUNO\source\repos\Formas\Formas\obj\Debug\net10.0\refint\Formas.dll
+C:\Users\ALUNO\source\repos\Formas\Formas\obj\Debug\net10.0\Formas.pdb
+C:\Users\ALUNO\source\repos\Formas\Formas\obj\Debug\net10.0\Formas.genruntimeconfig.cache
+C:\Users\ALUNO\source\repos\Formas\Formas\obj\Debug\net10.0\ref\Formas.dll
